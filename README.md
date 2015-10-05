@@ -1,5 +1,5 @@
 # mangaga
-some pro mangae
+some pro mangae and anime
 
 #Done
 * Bleach
